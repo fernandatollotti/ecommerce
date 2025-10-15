@@ -9,20 +9,20 @@ Este projeto consiste na criação, carga de dados e análise de um banco de dad
 
 ---
 
-### Tabela de Conteúdos
-* [Visão Geral do Projeto](#visão-geral-do-projeto)
+## Tabela de Conteúdos
+* [Visão geral do Projeto](#visão-geral-do-projeto)
 * [Diagrama Entidade-Relacionamento (DER)](#diagrama-entidade-relacionamento-der)
 * [Ferramentas e Tecnologias](#ferramentas-e-tecnologias)
-* [Como Executar o Projeto](#como-executar-o-projeto)
+* [Como executar o Projeto](#como-executar-o-projeto)
 * [Análises e Insights (Queries)](#análises-e-insights-queries)
 
 ---
 
-### 🎯 Visão Geral do Projeto
+## Visão Geral do Projeto
 
 A análise de dados é importante para entender o comportamento do consumidor, gerenciar o estoque e impulsionar o crescimento do negócio. O projeto simula um ambiente de banco de dados real, onde foram estruturadas tabelas para armazenar informações sobre clientes, produtos, pedidos, fornecedores e vendedores. A partir dessa base, foram desenvolvidas consultas SQL focadas em extrair métricas operacionais e estratégicas.
 
-### 📊 Diagrama Entidade-Relacionamento (DER)
+## Diagrama Entidade-Relacionamento (DER)
 
 O schema do banco de dados foi projetado para garantir a integridade e o relacionamento lógico entre as entidades principais de um e-commerce.
 
@@ -36,7 +36,7 @@ O schema do banco de dados foi projetado para garantir a integridade e o relacio
 
 ---
 
-### 🛠️ Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 
 * **Sistema de Gerenciamento de Banco de Dados:** MySQL
 * **Linguagem:** SQL (padrão ANSI)
@@ -44,7 +44,7 @@ O schema do banco de dados foi projetado para garantir a integridade e o relacio
 
 ---
 
-### 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 Para recriar o ambiente e executar as análises em seu computador:
 
@@ -72,7 +72,7 @@ Para recriar o ambiente e executar as análises em seu computador:
 
 ---
 
-### 📈 Análises e Insights (Queries)
+## Análises e Insights (Queries)
 
 O arquivo `database/queries.sql` contém as consultas desenvolvidas para responder a questões-chave do negócio.
 
